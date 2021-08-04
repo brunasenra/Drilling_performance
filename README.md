@@ -32,4 +32,4 @@ variables_dictionary.txt - A text file explaining the meaning of each column in 
 
 ## Solution
 
-After conducting research on the area and talking to Petrobras drilling professionals, I performed a data cleaning and data analysis in order to determine the slip-to-slip connection moments. The final result with the performance was presented through a dashboard created in Power BI.
+After conducting research on the area and talking to Petrobras drilling professionals, I performed a data cleaning and data analysis in order to determine the slip-to-slip connection moments. 
